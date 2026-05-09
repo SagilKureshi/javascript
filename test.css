@@ -1,0 +1,19 @@
+/* /* div{
+    background-color : green;
+    padding: 5px;
+}*/
+/* 
+p{
+    background-color : blue;
+    padding: 5px;
+} */
+
+/* .bgcolor{
+    background-color: green;
+}  */
+
+.div1{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+}
